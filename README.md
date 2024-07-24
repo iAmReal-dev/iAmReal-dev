@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iAmReal-dev
+- 👀 I’m interested in collaboration.
+- 🌱 I’m currently learning rust.
+- 💞️ I’m looking to collaborate on solana projects.
+- ⚡ Fun fact: Earth🌏 is flat.
